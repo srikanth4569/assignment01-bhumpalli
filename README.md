@@ -21,3 +21,10 @@ My house is surrounded by beautiful fields there is no pollution in that area an
 ![click here to go to AboutMe](AboutMe.md)
 ***
 
+The table is going to describe the types of drinks and where we can get them and the amount the customer should pay for the drinks they have purchased.<br>
+| Drinks | Place | Amount To Pay |
+| --- | --- | --- |
+| Coke | Subway Maryville | $1 |
+| Pepsi | Pizza Hut Maryville | $1 |
+| Mojito | Kfc Maryville | $2 |
+| Coffee | StarBucks Maryville | $3 |
