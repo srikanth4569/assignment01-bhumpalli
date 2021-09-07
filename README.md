@@ -29,3 +29,7 @@ The table is going to describe the types of drinks and where we can get them and
 | Pepsi | Pizza Hut Maryville | $1 |
 | Mojito | Kfc Maryville | $2 |
 | Coffee | StarBucks Maryville | $3 |
+***
+**Pithy Quotes**
+> If you are not willing to learn no one can help you.If you are determind to learn no one can stop you - *ZIG ZIGLAR*<br>
+> A person who never made a mistake never tried anything new - *ALBERT EINSTEIN*
