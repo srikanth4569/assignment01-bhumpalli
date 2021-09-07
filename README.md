@@ -18,7 +18,7 @@ My house is surrounded by beautiful fields there is no pollution in that area an
    * food
 *  cars to drive<br>
 
-![click here to go to AboutMe](AboutMe.md)
+[click here to go to AboutMe](AboutMe.md)
 ***
 
 **Table** <br>
